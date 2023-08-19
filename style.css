@@ -474,8 +474,18 @@ button {
 .education-content .content p {
     font-size: 1.2rem;
     padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 
+.education-content .content a {
+    font-size: 1.2rem;
+    color: var(--main-color);
+}
+
+.education-content .content a i {
+    padding-left: .4rem;
+    font-size: 1rem;
+}
 
 .skill {
     min-height: auto;
