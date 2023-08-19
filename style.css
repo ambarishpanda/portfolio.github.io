@@ -1084,6 +1084,9 @@ section:nth-child(odd) .animate.scroll {
     .home{
         background: none;
     }
+    .home-content .text-animate {
+        margin-right: -1px;
+    }
     .footer {
         flex-direction: column-reverse;
     }
